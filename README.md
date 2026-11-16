@@ -1,4 +1,4 @@
-# Equity-Efficiency Trade-offs in Public Investment Allocation in Nepal
+# Equity-Efficiency Trade-offs in Public Investment Allocation in Nepal-
 
 ## Overview
 
